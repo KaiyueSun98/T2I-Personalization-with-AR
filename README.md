@@ -5,11 +5,11 @@
 **Code will come soon.**
 
 ## Method Overview
-![](assets/pipeline.pdf)
+![](asset/pipeline.pdf)
 
 ## Demo
-![](assets/demo_object.pdf)
-![](assets/demo_animal.pdf)
+![](asset/demo_object.pdf)
+![](asset/demo_animal.pdf)
 
 ## Citation
 If you find our work useful in your project, please cite:
