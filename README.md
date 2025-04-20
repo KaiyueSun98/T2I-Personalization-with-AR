@@ -1,6 +1,6 @@
 # Personalized Text-to-Image Generation with Auto-Regressive Models
 
-<a href='https://arxiv.org/abs/'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
+<a href='https://arxiv.org/abs/2504.13162'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
 
 **Code will come soon.**
 
