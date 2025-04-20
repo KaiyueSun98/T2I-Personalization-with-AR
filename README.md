@@ -14,5 +14,10 @@
 ## Citation
 If you find our work useful in your project, please cite:
 ```
-
+@article{sun2025personalized,
+  title={Personalized Text-to-Image Generation with Auto-Regressive Models},
+  author={Sun, Kaiyue and Liu, Xian and Teng, Yao and Liu, Xihui},
+  journal={arXiv preprint arXiv:2504.13162},
+  year={2025}
+}
 ```
